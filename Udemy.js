@@ -1,5 +1,3 @@
-const y = document.getElementById("y");
-y.style.color = "pink";
 
 function toggleMobileMenu() {
   const dropdownContent = document.querySelector(".dropdown-content");
